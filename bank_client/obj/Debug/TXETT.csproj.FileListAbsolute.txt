@@ -1,0 +1,91 @@
+C:\Users\方舟\source\repos\TXETT\bin\Debug\TXETT.exe
+C:\Users\方舟\source\repos\TXETT\bin\Debug\TXETT.pdb
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.csprojAssemblyReference.cache
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.Form1.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.Properties.Resources.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.csproj.GenerateResource.cache
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.csproj.CoreCompileInputs.cache
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.exe
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.pdb
+C:\Users\方舟\source\repos\TXETT\bin\Debug\CSkin.dll
+C:\Users\方舟\source\repos\TXETT\bin\Debug\CSkin.xml
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.csproj.CopyComplete
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.Form2.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.Form3.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.Form4.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.Form5.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.Form6.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.UserControl1.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.UserControl2.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.UserControl3.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.UserControl4.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.UserControl5.resources
+C:\Users\方舟\source\repos\TXETT\obj\Debug\TXETT.UserControl6.resources
+D:\学习\紫金实习\TXETT\bin\Debug\TXETT.exe
+D:\学习\紫金实习\TXETT\bin\Debug\TXETT.pdb
+D:\学习\紫金实习\TXETT\bin\Debug\CSkin.xml
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.csprojAssemblyReference.cache
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.Form1.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.UserControl6.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.Form2.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.Form3.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.Form4.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.Form5.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.Form6.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.Properties.Resources.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.UserControl1.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.UserControl2.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.UserControl3.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.UserControl4.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.UserControl5.resources
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.csproj.GenerateResource.cache
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.csproj.CoreCompileInputs.cache
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.csproj.CopyComplete
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.exe
+D:\学习\紫金实习\TXETT\obj\Debug\TXETT.pdb
+C:\Users\92873\Desktop\紫金实习\TXETT\bin\Debug\TXETT.exe
+C:\Users\92873\Desktop\紫金实习\TXETT\bin\Debug\TXETT.pdb
+C:\Users\92873\Desktop\紫金实习\TXETT\bin\Debug\CSkin.xml
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.csproj.AssemblyReference.cache
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.csproj.SuggestedBindingRedirects.cache
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.Form1.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.UserControl6.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.Form2.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.Form3.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.Form4.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.Form5.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.Form6.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.Properties.Resources.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.UserControl1.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.UserControl2.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.UserControl3.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.UserControl4.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.UserControl5.resources
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.csproj.GenerateResource.cache
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.csproj.CoreCompileInputs.cache
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.csproj.CopyComplete
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.exe
+C:\Users\92873\Desktop\紫金实习\TXETT\obj\Debug\TXETT.pdb
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\bin\Debug\TXETT.exe
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\bin\Debug\TXETT.pdb
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\bin\Debug\CSkin.xml
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.csproj.AssemblyReference.cache
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.csproj.SuggestedBindingRedirects.cache
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.Form1.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.UserControl6.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.Form2.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.Form3.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.Form4.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.Form5.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.Form6.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.Properties.Resources.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.UserControl1.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.UserControl2.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.UserControl3.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.UserControl4.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.UserControl5.resources
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.csproj.GenerateResource.cache
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.csproj.CoreCompileInputs.cache
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.csproj.CopyComplete
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.exe
+C:\Users\92873\Desktop\紫金实习\TXETT - 副本\obj\Debug\TXETT.pdb
